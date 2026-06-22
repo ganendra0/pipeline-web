@@ -123,6 +123,12 @@ export const bandData = {
       url: "https://wa.me/6282220666702?text=Hi!%20I'm%20interested%20with%20Pipeline",
       handle: "Chat with us",
     },
+    {
+      id: "email",
+      name: "Email",
+      url: "mailto:truepipeline@gmail.com",
+      handle: "truepipeline@gmail.com",
+    },
   ],
 
   contact: {
