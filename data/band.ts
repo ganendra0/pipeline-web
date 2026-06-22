@@ -11,7 +11,7 @@ export const bandData = {
     type: "Single",
     releaseDate: "May 2025",
     description:
-      "Our latest single explores the feeling of disconnection in a hyper-connected world. Layered synths, ambient guitar, and a rhythm that pulls like gravity.",
+      "",
     coverImage: "/images/marni.png",
     coverAlt: "Marni",
     spotifyUrl: "https://open.spotify.com/track/5NmF8o4w2ics3hg9CDRPKH?si=7adc532147234776",
