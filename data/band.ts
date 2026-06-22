@@ -30,7 +30,7 @@ export const bandData = {
     {
       id: "apple-music",
       name: "Apple Music",
-      url: "https://music.apple.com/",
+      url: "https://music.apple.com/us/album/marni/6775856399",
       color: "#FA243C",
       bgColor: "rgba(250, 36, 60, 0.08)",
       borderColor: "rgba(250, 36, 60, 0.2)",
