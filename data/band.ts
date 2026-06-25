@@ -153,12 +153,12 @@ export const bandData = {
   },
 
   seo: {
-    title: "Void Atlas — Official Website",
+    title: "Pipeline — Official Website",
     description:
-      "Official website of Void Atlas. Post-rock meets ambient electronic from Jakarta. Stream our music on Spotify, Apple Music, Bandcamp, and more.",
-    keywords: "void atlas, band, post-rock, ambient, electronic, jakarta, indie",
+      "Official website of Pipeline. alternative-rock meets ambient electronic from Surabaya. Stream our music on Spotify, Apple Music, Bandcamp, and more.",
+    keywords: "pipeline, band, alternative-rock, ambient, electronic, surabaya, indie",
     ogImage: "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?w=1200&q=80",
-    twitterHandle: "@voidatlas",
+    twitterHandle: "@pipeline",
     siteUrl: "https://voidatlas.id",
   },
 };
